@@ -1,0 +1,47 @@
+*{
+    background-color: 	#524E4D;
+    margin: 0rem 2rem;
+}
+
+form{
+    margin-top: 5rem;
+}
+
+.label{
+    font-size: 30px;
+    padding-left: 50px;
+    margin-top: 50px;
+    color: white;
+}
+
+input{
+    margin-left: 300px;
+    padding: 2px 50px;
+    border-radius: 5px;
+    background-color: #C6C3C1 ; 
+}
+
+input:hover{
+    border: 2px black solid;
+}
+
+button{
+    padding: 20px 35px;
+    margin-left: 220px;
+    border-radius: 20px;
+    border: 2px white solid;
+}
+
+button:hover{
+    color: white;
+    background-color: black;
+    border: 2px black solid;
+}
+
+#h1{
+    margin-left: 70px; 
+    margin-top: 40px;
+    font-size: 2rem;
+    color: white;
+    
+}
